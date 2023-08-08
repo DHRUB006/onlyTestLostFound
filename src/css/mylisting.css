@@ -1,0 +1,16 @@
+.listing-title{
+    margin-top: 5px;
+    text-align: center;
+}
+.instagram-link {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 9999;
+  }
+  
+  .instagram-icon {
+    fill: #ffffff;
+    width: 24px;
+    height: 24px;
+  }
